@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-math",
-  "version": "30.0.0",
+  "version": "31.0.0",
   "description": "Math feature for CKEditor 5.",
   "keywords": [
     "ckeditor",
@@ -11,14 +11,14 @@
     "ckeditor5-math"
   ],
   "dependencies": {
-    "@ckeditor/ckeditor5-clipboard": "^30.0.0",
-    "@ckeditor/ckeditor5-core": "^30.0.0",
-    "@ckeditor/ckeditor5-engine": "^30.0.0",
+    "@ckeditor/ckeditor5-clipboard": "^31.0.0",
+    "@ckeditor/ckeditor5-core": "^31.0.0",
+    "@ckeditor/ckeditor5-engine": "^31.0.0",
     "@ckeditor/ckeditor5-inspector": "^2.2.2",
-    "@ckeditor/ckeditor5-ui": "^30.0.0",
-    "@ckeditor/ckeditor5-undo": "^30.0.0",
-    "@ckeditor/ckeditor5-utils": "^30.0.0",
-    "@ckeditor/ckeditor5-widget": "^30.0.0"
+    "@ckeditor/ckeditor5-ui": "^31.0.0",
+    "@ckeditor/ckeditor5-undo": "^31.0.0",
+    "@ckeditor/ckeditor5-utils": "^31.0.0",
+    "@ckeditor/ckeditor5-widget": "^31.0.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^30.0.0",
