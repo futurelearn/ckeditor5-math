@@ -223,10 +223,10 @@ development environment")
 
 To enter a development loop with hot reload support:
 
--   `git clone https://github.com/isaul32/ckeditor5-math.git`
+-   `git clone https://github.com/futurelearn/ckeditor5-math.git`
 -   `cd ckeditor5-math`
 -   `yarn`
--   `yarn start`
+-   `yarn start` or to change the port `yarn start --port 8081`
 -   http://localhost:8080
 
 [ckeditor 5 inspector]: https://ckeditor.com/docs/ckeditor5/latest/framework/guides/development-tools.html#ckeditor-5-inspector
