@@ -159,6 +159,8 @@ function renderMathJax3( equation, element, display, cb ) {
 				element.removeChild( element.firstChild );
 			}
 			element.appendChild( node );
+			MathJax.startup.document.clear();
+			MathJax.startup.document.updateDocument();
 			cb();
 		} );
 	}
