@@ -221,7 +221,7 @@ export default class MainFormView extends View {
 		const switchButton = new SwitchButtonView( this.locale );
 
 		switchButton.set( {
-			label: t( 'Display mode' ),
+			label: t( 'Show on own line' ),
 			withText: true
 		} );
 
